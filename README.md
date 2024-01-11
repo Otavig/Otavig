@@ -7,10 +7,9 @@ Atualmente, com 17 anos, sou aprendiz na equipe de desenvolvimento da Atvos desd
 
 ## TECNOLOGIAS QUE ESTOU BUSCANDO DOMINAR
 ### LINGUAGENS DE PROGRAMAÇÃO:
-- Node.js
-- Express
 - Ino (Arduino)
 - Python
+- JavaScript
 
 ### LINGUAGENS DE MARCAÇÃO E ESTILIZAÇÃO:
 - HTML
@@ -21,8 +20,14 @@ Atualmente, com 17 anos, sou aprendiz na equipe de desenvolvimento da Atvos desd
 - MySQL
 
 ### HABILIDADES ADICIONAIS
-- Trabalho com APIs: Experiência em integrar e consumir APIs, permitindo a comunicação eficiente entre diferentes sistemas.
-- Sistemas Operacionais: Usuário competente de ambas as plataformas, Windows e Linux, para desenvolvimento e tarefas diárias.
+- **Node.js:** Desenvolvo aplicações eficientes e escaláveis utilizando o ambiente Node.js, aproveitando a natureza assíncrona para criar soluções rápidas e responsivas.
+
+- **Express:** Utilizo o framework Express para construir APIs robustas e aplicativos web, aproveitando a simplicidade e flexibilidade que o Express oferece.
+
+- **Trabalho com APIs:** Possuo experiência sólida em integrar e consumir APIs, facilitando a comunicação eficiente e a integração entre diferentes sistemas. Isso inclui a utilização de formatos como JSON e RESTful.
+
+- **Sistemas Operacionais:** Sou um usuário competente de ambas as platafo
+
 
 ## INTERESSES E HOBBIES
 Minha paixão inicial pela programação se transformou em uma jornada mais ampla na área. Além da leitura, especialmente de livros relacionados à programação, e da absorção de conteúdo em fóruns, tenho o hábito de assistir a vídeos relacionados à tecnologia como parte do meu passatempo. Além disso, amo jogar xadrez, uma atividade que me desafia intelectualmente e proporciona momentos de relaxamento.
