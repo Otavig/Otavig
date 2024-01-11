@@ -38,6 +38,7 @@ Durante minha jornada educacional, destaco alguns professores notáveis que cont
 - Rodrigo Alves Nunes
 - Anderson Aguiar
 - Matheus Souza de Oliveira
+
 Cada um desses professores desempenhou um papel crucial na minha formação acadêmica e profissional, fornecendo orientação e conhecimentos valiosos que contribuíram para o meu crescimento na área de tecnologia.
 
 ## GITHUB
