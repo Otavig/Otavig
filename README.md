@@ -41,4 +41,4 @@ Durante minha jornada educacional, destaco alguns professores notáveis que cont
 Cada um desses professores desempenhou um papel crucial na minha formação acadêmica e profissional, fornecendo orientação e conhecimentos valiosos que contribuíram para o meu crescimento na área de tecnologia.
 
 ## GITHUB
-Para uma visualização mais organizada, você pode conferir este perfil no [GitHub](link_do_seu_perfil), onde mantenho projetos, compartilho códigos e documentações, refletindo minha jornada de aprendizado e contribuições para a comunidade. 🚀
+Para uma visualização mais organizada, você pode conferir este perfil no [GitHub](https://github.com/Otavig), onde mantenho projetos, compartilho códigos e documentações, refletindo minha jornada de aprendizado e contribuições para a comunidade. 🚀
