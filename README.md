@@ -1,7 +1,7 @@
 # Otávio Garcia dos Santos
 
 ## Sobre Mim
-Entusiasta e aprendiz de desenvolvimento, apaixonado pelo mundo da programação desde os 7 anos, quando me encantei com a programação de servidores, inspirado pelo universo do Minecraft e influenciado positivamente por meu avô, apaixonado por tecnologia. Atualmente, aos 17 anos, sou aprendiz na equipe de desenvolvimento da Atvos desde 2023. Busco constantemente expandir meus conhecimentos em tecnologia como uma forma de expressão artística e solução de problemas.
+Entusiasta e aprendiz de desenvolvimento, apaixonado pelo mundo da programação desde os 7 anos, quando me encantei com a programação de servidores, inspirado pelo universo do Minecraft e influenciado positivamente por meu avô, apaixonado por tecnologia. Atualmente, aos 18 anos, sou aprendiz na equipe de desenvolvimento da Atvos desde 2023. Busco constantemente expandir meus conhecimentos em tecnologia como uma forma de expressão artística e solução de problemas.
 
 ## Tecnologias que Domino
 ### Linguagens de Programação:
@@ -34,6 +34,3 @@ Cursando o terceiro ano do ensino médio no SESI e buscando aprimorar meu conhec
 
 ## Professores Notáveis
 Destaco a contribuição de alguns professores notáveis que foram cruciais em minha formação acadêmica e profissional: Rodrigo Alves Nunes, Anderson Aguiar e Matheus Souza de Oliveira.
-
-## GitHub
-Para uma visualização mais detalhada, confira meu perfil no [GitHub](https://github.com/Otavig), onde mantenho projetos e compartilho códigos refletindo minha jornada de aprendizado e contribuições para a comunidade. 🚀
