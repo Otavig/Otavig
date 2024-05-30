@@ -1,13 +1,13 @@
 # Otávio Garcia dos Santos
 
 ## Sobre Mim
-Entusiasta e aprendiz de desenvolvimento, apaixonado pelo mundo da programação desde os 7 anos, quando me encantei com a programação de servidores, inspirado pelo universo do Minecraft e influenciado positivamente por meu avô, apaixonado por tecnologia. Atualmente, aos 18 anos, sou aprendiz na equipe de desenvolvimento da Atvos desde 2023. Busco constantemente expandir meus conhecimentos em tecnologia como uma forma de expressão artística e solução de problemas.
+Entusiasta e aprendiz de desenvolvimento, apaixonado pelo mundo da programação desde os 7 anos, influenciado positivamente por meu avô, apaixonado por tecnologia. Atualmente, aos 18 anos, sou aprendiz na equipe de desenvolvimento da Atvos desde 2023. Busco constantemente expandir meus conhecimentos em tecnologia como uma forma de expressão artística e solução de problemas.
 
-## Tecnologias que Domino
+## Tecnologias de conhecimento
 ### Linguagens de Programação:
-- C++
-- Python
 - JavaScript
+- Python
+- C++
 
 ### Linguagens de Marcação e Estilização:
 - HTML
@@ -22,9 +22,10 @@ Entusiasta e aprendiz de desenvolvimento, apaixonado pelo mundo da programação
 - Express: Construção de APIs robustas e aplicativos web.
 - Trabalho com APIs: Integração e consumo eficiente de APIs.
 - React.js e React Native: Conhecimento sólido em ambas as tecnologias.
+- Expo Go: Desenvolvimento mobile em JS.
 
 ## Interesses e Hobbies
-Além da programação, tenho interesse em xadrez e leitura, especialmente de livros relacionados à tecnologia, além de assistir a vídeos sobre o assunto como parte do meu passatempo.
+Além da programação, tenho interesse em estudo biblico, xadrez e leitura, especialmente de livros relacionados à tecnologia, além de assistir a vídeos sobre o assunto como parte do meu passatempo.
 
 ## Envolvimento em Projetos de Robótica
 Participação ativa na equipe de robótica da Olimpíada Brasileira de Robótica (OBR) do SESI 423, aplicando conhecimentos em programação Arduino e eletroeletrônica.
