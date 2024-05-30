@@ -34,4 +34,4 @@ Participação ativa na equipe de robótica da Olimpíada Brasileira de Robótic
 Cursando o terceiro ano do ensino médio no SESI e buscando aprimorar meu conhecimento no SENAI, com especialização em Desenvolvimento de Sistemas e cursos sobre Google Cloud, Implantação em Nuvem e IoT (Internet of Things).
 
 ## Professores Notáveis
-Destaco a contribuição de alguns professores notáveis que foram cruciais em minha formação acadêmica e profissional: Rodrigo Alves Nunes, Anderson Aguiar e Matheus Souza de Oliveira.
+Destaco a contribuição de alguns professores notáveis que foram cruciais em minha formação acadêmica e profissional: Rodrigo Alves Nunes, Anderson Aguiar, Matheus Souza de Oliveira e Bruno De Souza Ferreira.
