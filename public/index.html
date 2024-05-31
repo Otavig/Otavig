@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- GOOGLE FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <!-- FIM GOOGLE FONTES -->
+    <!-- BOOTSTRAP ICONS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <!-- FIM BOOTSTRAP ICONS -->
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
+
+    <title>Otávig</title>
+</head>
+<style>
+    /* Animações */
+    @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
+
+    header, .topo-do-site, .formacao-academica, .experiencia,.sobre,.especiliadades,.interface, footer {
+        animation: fadeIn 2s ease-in;
+    }
+
+    #textoDigitado {
+        border-right: 2px solid #000;
+        white-space: nowrap;
+        overflow: hidden;
+        animation: digitar 3s steps(40) 1;
+    }
+  
+    @keyframes digitar {
+        0% {
+        width: 0;
+        }
+        100% {
+        width: 100%;
+        }
+    }
+    </style>
+<body>
+    
+    <header>
+        <div class="interface">
+            <div class="logo">
+                <a href="#">
+                    <p style="color: white;">Otávio Garcia Dos Santos</p>
+                </a>
+            </div><!--logo-->
+
+            <nav class="menu-desktop">
+                <ul>
+                    <li><a href="#nav_inicio">Início</a></li>
+                    <li><a href="#nav_especiliadades">Habilidades e Projetos</a></li>
+                    <li><a href="#nav_sobre">Sobre</a></li>
+                </ul>
+            </nav>            
+
+            <div class="btn-contato">
+                <a href="#nav_contato">
+                    <button>Contato</button>
+                </a>
+            </div><!--btn-contato-->
+
+            <div class="btn-abrir-menu" id="btn-menu">
+                <i class="bi bi-list"></i>
+            </div>
+
+            <div class="menu-mobile" id="menu-mobile">
+                <div class="btn-fechar">
+                    <i class="bi bi-x-lg"></i>
+                </div>
+
+                <nav>
+                    <ul>
+                        <li><a href="#nav_inicio">Início</a></li>
+                        <li><a href="#nav_especiliadades">Habilidades e Projetos</a></li>
+                        <li><a href="#nav_sobre">Sobre</a></li>
+                    </ul>
+                </nav>
+
+            </div><!--menu-mobile-->
+            <div class="overlay-menu" id="overlay-menu"></div>
+        </div><!--interface-->
+    </header>
+
+    <main>
+        <section class="topo-do-site" id="nav_inicio">
+            <div class="interface">
+                <div class="flex">
+                    <div class="txt-topo-site" style="margin-bottom: 200px;">
+                            <h1 id="textoDigitado">CONVERTENDO SONHOS EM DIGITALIDADE <span>.</span></h1>
+                            <p>Na combinação entre ideias e novidades, está a essência da criação digital. Com um design envolvente, facilidade de uso e foco em resultados, estou aqui para tornar realidade sua visão digital, trazendo interatividade e informações ao seu site.</p>
+                        <div class="btn-contato">
+                            <a href="#nav_contato">
+                                <button>Entre em contato</button>
+                            </a>
+                        </div>
+                    </div><!--txt-topo-site-->
+
+                    <div class="img-topo-site">
+                        <img src="imgs/125999228.jpg" alt="">
+                    </div><!--img-topo-site-->
+                </div><!--flex-->
+            </div><!--interface-->
+        </section><!--topo-do-site-->
+
+        <section class="sobre" id="nav_sobre">
+            <div class="interface">
+                <div class="flex">
+                    <div class="img-sobre">
+                        <img src="images/foto.png" alt="">
+                    </div><!--img-sobre-->
+
+                    <div class="txt-sobre">
+                        <h2>MUITO PRAZER, <span>SOU OTÁVIO GARCIA DOS SANTOS</span></h2>
+                        <p>Sou um entusiasta de programação desde os 7 anos, influenciado pelo avô apaixonado por tecnologia. Busco expandir seus conhecimentos em tecnologia como forma de expressão artística e solução de problemas.</p>
+                        <p>Proficiente em linguagens como <span style="color: orange;">JavaScript</span>, <span style="color: yellow;">Python</span> e <span style="color: greenyellow;">C++</span>, demonstra habilidades em frameworks como <span style="color: green;">Node.js</span> e <span style="color: rgb(0, 183, 255);">React.js</span>. Além da programação, seus interesses incluem estudos bíblicos, xadrez e leitura de livros sobre tecnologia.</p>
+                        <div class="btn-social">
+                            <a href="https://www.instagram.com/otavig_/"><button><i class="bi bi-instagram"></i></button></a>
+                            <a href="https://www.linkedin.com/in/ot%C3%A1vio-garcia-5571502b6/"><button><i class="bi bi-linkedin"></i></button></a>
+                        </div><!--btn-social-->
+                    </div><!--txt-sobre-->
+                </div><!--flex-->
+            </div><!--interface-->
+        </section><!--sobre-->
+
+        <section class="especiliadades" id="nav_especiliadades">
+            <div class="interface">
+                <h2 class="titulo">MINHAS <span>ESPECIALIDADES</span> E <span>PROJETOS.</span></h2>
+                <div class="flex">
+                    <div class="especialidades-box">
+                        <a href="curriculum.html" style="display: inline-block; text-decoration: none; color: white;">
+                            <i class="bi bi-code-square"></i>
+                            <h3>Currículo</h3>
+                            <p>Conheça as minhas Formação academica, Qualificações e Experiências.</p>
+                        </a>
+                    </div><!--especialidades-box-->
+
+
+                    <div class="especialidades-box">
+                        <a href="projetos.html" style="display: inline-block; text-decoration: none; color: white;">
+                            <i class="bi bi-terminal"></i>
+                            <h3>Projetos</h3>
+                            <p>Conheça alguns dos meus melhores projetos desenvolvidos.</p>
+                        </a>
+                    </div><!--especialidades-box-->
+                </div><!--flex-->
+            </div><!--interface-->
+        </section><!--especiliadades-->
+        
+        <section class="formulario" id="nav_contato">
+            <div class="interface">
+                <h2 class="titulo">FALE <span>COMIGO.</span></h2>
+
+                <form action="">
+                    <input type="text" name="" id="" placeholder="Seu nome completo:" required>
+                    <input type="text" name="" id="" placeholder="Seu e-mail:" required>
+                    <input type="text" name="" id="" placeholder="Seu celular:">
+                    <textarea name="" id="" placeholder="Sua mensagem" required></textarea>
+                    <div class="btn-enviar"><input type="submit" value="ENVIAR"></div>
+                </form>
+            </div><!--interface-->
+        </section><!--formulario-->
+
+    </main>
+
+    <footer>
+        <div class="interface">
+            <div class="line-footer">
+                <div class="flex">
+                    <div class="logo-footer">
+                    </div><!--logo-footer-->
+                </div>
+            </div><!--line-footer-->
+
+            <div class="line-footer borda">
+                <p><i class="bi bi-envelope-fill"></i> <a href="mailto:otaviogarcia.santos4@gmail.com">otaviogarcia.santos4@gmail.com</a></p>
+            </div><!--line-footer-->
+        </div><!--interface-->
+    </footer>
+
+    <script src="js/script.js" defer></script>
+</body>
+</html>

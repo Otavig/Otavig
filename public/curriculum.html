@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- GOOGLE FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <!-- FIM GOOGLE FONTES -->
+    <!-- BOOTSTRAP ICONS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <!-- FIM BOOTSTRAP ICONS -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <title>Otávig</title>
+</head>
+<style>
+    /* Geral */
+    body {
+        font-family: 'Poppins', sans-serif;
+        background-color: #000000;
+        color: #ffffff;
+        margin: 0;
+        padding: 0;
+    }
+
+    header {
+        background-color: #000000;
+        padding: 20px 0;
+    }
+
+    .interface {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+    .logo p {
+        font-size: 1.5rem;
+        margin: 0;
+    }
+
+    nav.menu-desktop ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    nav.menu-desktop ul li {
+        display: inline;
+        margin-right: 20px;
+    }
+
+    nav.menu-desktop ul li a {
+        color: #ffffff;
+        text-decoration: none;
+        font-size: 1.2rem;
+    }
+
+    .btn-abrir-menu i, .btn-fechar i {
+        font-size: 2rem;
+        color: #ffffff;
+    }
+
+    .menu-mobile {
+        display: none;
+        background-color: #000000;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    }
+
+    .menu-mobile nav ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .menu-mobile nav ul li {
+        margin: 20px 0;
+    }
+
+    .menu-mobile nav ul li a {
+        color: #ffffff;
+        text-decoration: none;
+        font-size: 1.5rem;
+    }
+
+    .overlay-menu {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        z-index: 10;
+    }
+
+    .qualificacoes, .formacao-academica, .experiencia {
+        padding: 20px 0;
+        cursor: pointer;
+    }
+
+    h1, h2, h3 {
+        color: #0099ff;
+    }
+
+    h1 span {
+        color: #ff0000;
+    }
+
+    ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    ul li {
+        margin: 10px 0;
+    }
+
+    /* Especificando cores para linguagens */
+    span.js { color: #ffe600; }
+    span.ts { color: #0099ff; }
+    span.senai { color: #ff0000; }
+
+    /* Animações */
+    @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
+
+    header, .topo-do-site, .formacao-academica, .experiencia,.qualificacoes, footer {
+        animation: fadeIn 2s ease-in;
+    }
+
+    /* Rodapé */
+    footer {
+        background-color: #000000;
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    footer p {
+        margin: 0;
+        color: #ffffff;
+    }
+
+    /* Estilo para esconder conteúdo expandível */
+    .expandable-content {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.5s ease-out;
+    }
+
+    .active .expandable-content {
+        max-height: 1000px; 
+        transition: max-height 0.5s ease-in;
+    }
+
+    /* Estilo para a seta */
+    .toggle-arrow {
+        position: relative;
+    }
+
+    .toggle-arrow i {
+        position: absolute;
+        right: 30px;
+        top: 50%;
+        transform: translateY(-50%);
+        transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+        opacity: 0.5;
+    }
+    /* Ajusta a posição da seta quando a seção está ativa */
+    .aj {
+        left: 57.5%;
+    }
+</style>
+<body>
+    
+    <header>
+        <div class="interface">
+            <div class="logo">
+                <a href="#">
+                    <p>Otávio Garcia Dos Santos</p>
+                </a>
+            </div><!--logo-->
+
+            <nav class="menu-desktop">
+                <ul>
+                    <li><a href="index.html">Página Inicial</a></li>
+                </ul>
+            </nav>            
+
+            <div class="btn-abrir-menu" id="btn-menu">
+                <i class="bi bi-list"></i>
+            </div>
+
+            <div class="menu-mobile" id="menu-mobile">
+                <div class="btn-fechar">
+                    <i class="bi bi-x-lg"></i>
+                </div>
+
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Início</a></li>
+                    </ul>
+                </nav>
+
+            </div><!--menu-mobile-->
+            <div class="overlay-menu" id="overlay-menu"></div>
+        </div><!--interface-->
+    </header>
+
+    <main>
+        <section class="topo-do-site" id="nav_inicio">
+            <div class="interface">
+                <div class="flex">
+                    <div class="txt-topo-site">
+                        <h1>Currículo<span>.</span></h1>
+                        <p>Com uma formação técnica sólida em Análise e Desenvolvimento de Sistemas pelo SENAI e uma ampla gama de habilidades em tecnologias como JavaScript, TypeScript e frameworks como React.js e Next.js, Otávio Garcia Dos Santos destaca-se como um profissional incansável em busca da excelência. Sua experiência prática como Auxiliar de Escritório na USINA CONQUISTA DO PONTAL S.A - Atvos adiciona uma camada valiosa de compreensão do mundo real aos seus conhecimentos teóricos, tornando-o um talento multifacetado e resiliente no campo da Tecnologia da Informação.</p>
+                    </div><!--txt-topo-site-->
+                    <div class="img-topo-site">
+                        <img src="imgs/imgs.png" healt="" height="400px">
+                    </div><!--img-topo-site-->
+                </div><!--flex-->
+            </div><!--interface-->
+        </section><!--topo-do-site-->
+
+        <section class="qualificacoes" id="nav_qualificacoes">
+            <div class="interface">
+                <div class="flex">
+                    <div class="txt-topo-site">
+                        <h2 class="toggle-arrow">Qualificações: <i style="left: 130%;" class="bi bi-chevron-down"></i></h2>
+                        <div class="expandable-content">
+                            <ul style="margin-left: 50px; margin-top: 10px;">
+                                <li>Conhecimento em React.js, Next.js (níveis intermediário e avançado), <span class="js">JavaScript</span> e <span class="ts">TypeScript</span> avançado</li>
+                                <li>Conhecimento intermediário em Python3</li>
+                                <li>Experiência com Django Web Framework e Django Rest Framework</li>
+                                <li>Fundamentos de Google Cloud Computing (GCP)</li>
+                                <li>Conhecimento avançado em Excel, Word e Redes</li>
+                            </ul>
+                        </div><!--expandable-content-->
+                    </div><!--txt-topo-site-->
+                </div><!--flex-->
+            </div><!--interface-->
+        </section><!--qualificacoes-->
+
+        <section class="formacao-academica" id="nav_formacao">
+            <div class="interface">
+                <div class="flex">
+                    <div class="txt-topo-site">
+                        <h2 class="toggle-arrow" >Formação Acadêmica: <i style="left: 169.9%;" class="bi bi-chevron-down"></i></h2>
+                        <div class="expandable-content">
+                            <p><strong>Ensino Médio Completo:</strong> Antonio Scalon - CE 423, Conclusão: 2024</p>
+                            <h3>Qualificações e Cursos Complementares:</h3>
+                            <ul style="margin-left: 50px; margin-top: 10px;">
+                                <li>Curso Técnico em <span class="analise">Análise</span> e <span class="desenvolvimento">Desenvolvimento de Sistemas</span> pelo <span class="senai">SENAI</span> (2 anos)</li>
+                                <li>Curso de JavaScript e TypeScript avançado</li>
+                                <li>Curso de React.js e Next.js (níveis intermediário e avançado)</li>
+                                <li>Soluções Integradas com IoT pelo SENAI</li>
+                                <li>Fundamentos de Google Cloud Computing (GCP)</li>
+                                <li>Certificado em Segurança no Trabalho pelo SENAI</li>
+                                <li>Certificação DP-900 da Microsoft</li>
+                                <li>Curso "Desvendando o 5G" pelo SENAI</li>
+                                <li>Curso de Privacidade e Proteção de Dados (LGPD) pelo SENAI</li>
+                                <li>Curso de Economia Circular pelo SENAI</li>
+                            </ul>
+                        </div><!--expandable-content-->
+                    </div><!--txt-topo-site-->
+                </div><!--flex-->
+            </div><!--interface-->
+        </section><!--formacao-academica-->
+
+        <section class="experiencia" id="nav_experiencia">
+            <div class="interface">
+                <div class="flex">
+                    <div class="txt-topo-site">
+                        <h2 class="toggle-arrow">Experiência: <i style="left: 106.5%;" class="bi bi-chevron-down aj"></i></h2>
+                        <div class="expandable-content">
+                            <h3>AUXILIAR DE ESCRITÓRIO EM GERAL</h3>
+                            <p><strong>Empresa:</strong> USINA CONQUISTA DO PONTAL S.A - Atvos</p>
+                            <p><strong>Período:</strong> 2023 - 2024</p>
+                            <ul style="margin-left: 50px; margin-top: 10px;">
+                                <li>Inicialmente contratado como aprendiz, não sendo necessário frequentar a empresa ou desempenhar atividades operacionais.</li>
+                                <li>Contratado durante o período de formação no SENAI devido ao destaque entre as turmas.</li>
+                                <li>Remunerado para dedicar tempo integral aos estudos e ao aprimoramento no SENAI.</li>
+                            </ul>
+                        </div><!--expandable-content-->
+                    </div><!--txt-topo-site-->
+                </div><!--flex-->
+            </div><!--interface-->
+        </section><!--experiencia-->
+
+    </main>
+
+    <footer>
+        <div class="interface">
+            <div class="line-footer">
+                <div class="flex">
+                    <div class="logo-footer">
+                    </div><!--logo-footer-->
+                </div>
+            </div><!--line-footer-->
+
+            <div class="line-footer borda">
+                <p><i class="bi bi-envelope-fill"></i> <a href="mailto:otaviogarcia.santos4@gmail.com">otaviogarcia.santos4@gmail.com</a></p>
+            </div><!--line-footer-->
+        </div><!--interface-->
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const sections = document.querySelectorAll('section:not(#nav_inicio)');
+    
+            sections.forEach(section => {
+                section.addEventListener('click', function() {
+                    this.classList.toggle('active');
+                    const arrow = this.querySelector('.toggle-arrow i');
+                    arrow.classList.toggle('bi-chevron-down');
+                    arrow.classList.toggle('bi-chevron-up');
+                });
+            });
+            
+        });
+    </script>
+    
+</body>
+</html>

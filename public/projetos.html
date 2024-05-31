@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- GOOGLE FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <!-- FIM GOOGLE FONTES -->
+    <!-- BOOTSTRAP ICONS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <!-- FIM BOOTSTRAP ICONS -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <title>Otávig</title>
+</head>
+<style>
+    /* Animações */
+        @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
+
+    header, .topo-do-site, .formacao-academica, .experiencia,.qualificacoes,.portfolio,.section-grande, footer {
+        animation: fadeIn 2s ease-in;
+    }
+
+    .section-grande {
+        background-color: #f0f0f0; 
+        padding: 50px 0;
+        text-align: center; 
+        color: #333;
+    }
+</style>
+<body>
+    
+    <header>
+        <div class="interface">
+            <div class="logo">
+                <a href="#">
+                    <p style="color: white;">Otávio Garcia Dos Santos</p>
+                </a>
+            </div><!--logo-->
+
+            <nav class="menu-desktop">
+                <ul>
+                    <li><a href="index.html">Pagina inicial</a></li>
+                </ul>
+            </nav>            
+
+            <div class="btn-abrir-menu" id="btn-menu">
+                <i class="bi bi-list"></i>
+            </div>
+
+            <div class="menu-mobile" id="menu-mobile">
+                <div class="btn-fechar">
+                    <i class="bi bi-x-lg"></i>
+                </div>
+
+                <nav>
+                    <ul>
+                        <li><a href="#nav_inicio">Início</a></li>
+                        <li><a href="#nav_especiliadades">Habilidades e Projetos</a></li>
+                        <li><a href="#nav_sobre">Sobre</a></li>
+                    </ul>
+                </nav>
+
+            </div><!--menu-mobile-->
+            <div class="overlay-menu" id="overlay-menu"></div>
+        </div><!--interface-->
+    </header>
+
+    <main>
+        <section class="portfolio">
+            <div class="interface">
+                <h2 class="titulo">MEU <span>PORTFÓLIO.</span></h2>
+                <div class="flex">
+                    <div class="img-port" style="background-image: url(imgs/MicrosoftTeams-image.png);">
+                        <a href="https://github.com/Otavig/Pejo"><div class="overlay">Pejo</div></a>
+                    </div>
+                    <div class="img-port" style="background-image: url(imgs/midia_indoor.PNG);">
+                        <a href="https://github.com/Otavig/ProjetoMidiaIndoor"><div class="overlay">Midia Indoor</div></a>
+                    </div>
+                    <div class="img-port" style="background-image: url(imgs/pokeAPI.PNG);">
+                        <a href="https://github.com/Otavig/PokeAPI"><div class="overlay">PokeAPI</div></a>
+                    </div>
+                </div>
+            </div>
+            <div class="interface portfolio">
+                <div class="flex">
+                    <div class="img-port" style="background-image: url(imgs/anote.png);">
+                        <a href="https://github.com/Otavig/Anote"><div class="overlay">ANote</div></a>
+                    </div>
+                    <!-- <div class="img-port" style="background-image: url(imgs/pokeAPI.PNG);">
+                        <a href="https://github.com/Otavig/PokeAPI"><div class="overlay">PokeAPI</div></a>
+                    </div> -->
+                </div>
+            </div>
+
+    <footer>
+        <div class="interface">
+            <div class="line-footer">
+                <div class="flex">
+                    <div class="logo-footer">
+                    </div><!--logo-footer-->
+                </div>
+            </div><!--line-footer-->
+
+            <div class="line-footer borda">
+                <p><i class="bi bi-envelope-fill"></i> <a href="mailto:otaviogarcia.santos4@gmail.com">otaviogarcia.santos4@gmail.com</a></p>
+            </div><!--line-footer-->
+        </div><!--interface-->
+    </footer>
+
+    <script src="js/script.js" defer></script>
+</body>
+</html>

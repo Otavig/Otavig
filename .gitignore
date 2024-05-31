@@ -1,0 +1,32 @@
+# Arquivos compilados
+*.log
+*.log.*
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Cache de dependências
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Arquivos de configuração locais
+.env
+
+# Arquivos específicos do Windows
+desktop.ini
+
+# Cache de compilação
+*.css.map
+*.js.map
+
+# Arquivos de compilação
+css/
+js/
+fonts/
+imgs/
