@@ -39,16 +39,10 @@ Sou desenvolvedor Web/Mobile e estusiasta em tecnologia.
 ---
 
 ## Github Stats
-<table class="centered-table">
-  <tr>
-    <td>
-      <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavig&show_icons=true&theme=radical&count_private=true"/>
-    </td>
-    <td>
-      <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=Otavig&show_icons=true&theme=radical&count_private=true"/>
-    </td>
-  </tr>
-</table>
+<div align="center "style="margin: 0 auto">
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavig&show_icons=true&theme=radical&count_private=true"/>
+  <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=Otavig&show_icons=true&theme=radical&count_private=true"/>
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Otavig/Otavig/output/github-contribution-grid-snake-dark.svg">
