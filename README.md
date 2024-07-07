@@ -2,7 +2,7 @@
 
 # ❤ Olá entusiasta, seja bem vindo é bom ter você por aqui!
   <div id="badges">
-  <a href = "https://www.linkedin.com/">
+  <a href = "https://www.linkedin.com/in/ot%C3%A1vio-garcia-5571502b6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href = "https://www.instagram.com/otavig_/">
