@@ -1,6 +1,4 @@
-<div style="width: 100%; height: 300px; overflow: hidden; position: relative;">
-  <img src="img_01.gif" alt="Imagem" style="width: 100%; height: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-</div>
+<img src="img_01.png" alt="Imagem" style="width:100%; height: auto;">
 
 # ❤ Olá entusiasta, seja bem vindo é bom ter você por aqui!
   <div id="badges">
@@ -19,6 +17,7 @@ Sou desenvolvedor Web/Mobile e estusiasta em tecnologia.
 ## Formação e Cursos
 - Curso Técnico em Análise e Desenvolvimento de Sitemas pelo Senai (2 anos)
 - Curso de Fundamentos de Google Cloud Computing (GCP) pelo Senai
+- Curso de Soluções integradas com IoT pelo Senai
 - Cursos Udemy (Reac, Next, TypeScript)
 - DP-900
 
