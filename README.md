@@ -48,6 +48,6 @@ Sou desenvolvedor Web/Mobile e estusiasta em tecnologia.
   </tr>
 </table>
 
-![Snake animation](https://github.com/Otavig/Otavig/blob/main/.github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/Otavig/Otavig/blob/output/github-contribution-grid-snake.svg)
 
 
