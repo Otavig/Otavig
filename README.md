@@ -1,4 +1,4 @@
-<img src="img_01.png" alt="Imagem" style="width:100%; height: auto;">
+<img src="img_02.png" alt="Imagem" style="width:100%; height: auto;">
 
 # ❤ Olá entusiasta, seja bem vindo é bom ter você por aqui!
   <div id="badges">
