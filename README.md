@@ -12,7 +12,7 @@
 <!--   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
   </div>
 <br>
-Sou desenvolvedor Web/Mobile e estusiasta em tecnologia.
+Sou desenvolvedor **Web/Mobile** e estusiasta em tecnologia.
 
 ## Formação e Cursos
 - Curso Técnico em Análise e Desenvolvimento de Sitemas pelo Senai (2 anos)
