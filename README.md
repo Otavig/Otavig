@@ -17,10 +17,12 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
 
 > I am a Web/Mobile developer and technology enthusiast.
 ---
-
 ## Formação e Cursos / Education and Courses
+  
 - Curso Técnico em Análise e Desenvolvimento de Sistemas (Senai 2 anos)  
   > *Technical Course in Systems Analysis and Development (Senai 2 years)*
+  
+  <img align="right" src="https://github.com/Otavig/Studying/blob/main/Tools/img_perf2.png" alt="Imagem" height="200px">
   
 - Curso de Fundamentos de Google Cloud Computing (Senai GCP)  
   > *Google Cloud Computing (GCP) Fundamentals Course (Senai) *
@@ -32,7 +34,6 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
   > *Udemy Courses (React, Next, TypeScript)*
 
 - DP-900 (Senai)  
-  
 
 ## Meu Stack / My Stack
 <div>
@@ -52,12 +53,29 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
 
 ## Github Status
 <div align="center" style="margin: 0 auto">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavig&show_icons=true&theme=radical&count_private=true"/>
-  <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=Otavig&show_icons=true&theme=radical&count_private=true"/>
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavig&layout=donut-vertical&theme=jolly"/>
+  <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=Otavig&show_icons=true&theme=jolly"/>
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavig&show_icons=true&theme=jolly"/>
+  
 </div>
+
+## Github Rep's ++
+<div align="center" style="margin: 0 auto">
+  <a href="https://github.com/Otavig/MidiaIndoor" > <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Otavig&repo=MidiaIndoor&theme=jolly"/> </a>
+  <a href="https://github.com/Otavig/PejoApp" ><img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Otavig&repo=PejoApp&theme=jolly"/> </a>
+</div>
+<!-- ![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/) -->
 
 <picture align="center">
   <source align="center" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Otavig/Otavig/output/github-contribution-grid-snake-dark.svg">
   <source align="center" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Otavig/Otavig/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Otavig/Otavig/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br>
+<br>
+
+<details align="left">
+  <summary>:eyes: Shh!!!</summary>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=3000&color=CCC&width=435&lines=Hello+World!" alt="Typing SVG" /></a>
+</details>
