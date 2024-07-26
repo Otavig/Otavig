@@ -53,18 +53,23 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
 
 ## Github Status
 <div align="center" style="margin: 0 auto">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavig&layout=donut-vertical&theme=jolly"/>
   <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=Otavig&show_icons=true&theme=jolly"/>
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavig&show_icons=true&theme=jolly"/>
   
 </div>
 
-## Github Rep's ++
+<!-- 
+<details align="left">
+  <summary style="font-size: 200px">Github Rep's</summary>
+  
+# Github Rep's ++
 <div align="center" style="margin: 0 auto">
-  <a href="https://github.com/Otavig/MidiaIndoor" > <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Otavig&repo=MidiaIndoor&theme=jolly"/> </a>
-  <a href="https://github.com/Otavig/PejoApp" ><img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Otavig&repo=PejoApp&theme=jolly"/> </a>
+  <a href="https://github.com/Otavig/MidiaIndoor" > <img height="140em" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Otavig&repo=MidiaIndoor&theme=jolly"/> </a>
+  <a href="https://github.com/Otavig/PejoApp" ><img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Otavig&repo=PejoApp&theme=jolly"/> </a>
 </div>
-<!-- ![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/) -->
+<!-- ![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/) 
+</details>
+-->
 
 <picture align="center">
   <source align="center" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Otavig/Otavig/output/github-contribution-grid-snake-dark.svg">
