@@ -1,7 +1,6 @@
 <img src="img_02.png" alt="Imagem" style="width:100%; height: auto;">
 
-# ❤ Olá entusiasta, seja bem-vindo, é bom ter você por aqui!
-
+<a href="https://git.io/typing-svg"><img  style="margin: 0px" height="100px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=2993&color=F7F7F7&repeat=false&width=435&lines=%E2%9D%A4+Ol%C3%A1+entusiasta%2C+seja+bem-vindo!" alt="Typing SVG" /></a>
 > ❤ Hello enthusiast, welcome, it's good to have you here!
 ---
 <div id="badges">
