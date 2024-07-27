@@ -25,18 +25,18 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
 ## Formação e Cursos / Education and Courses
   
 - Curso Técnico em Análise e Desenvolvimento de Sistemas (Senai 2 anos)  
-  > *Technical Course in Systems Analysis and Development (Senai 2 years)*
+  > Technical Course in Systems Analysis and Development (Senai 2 years)
   
   <img align="right" src="https://github.com/Otavig/Studying/blob/main/Tools/img_perf2.png" alt="Imagem" height="200px">
   
 - Curso de Fundamentos de Google Cloud Computing (Senai GCP)  
-  > *Google Cloud Computing (GCP) Fundamentals Course (Senai) *
+  > Google Cloud Computing (GCP) Fundamentals Course (Senai)
 
 - Curso de Soluções Integradas com IoT (Senai IoT)  
-  > *Integrated Solutions with IoT Course (Senai) *
+  > Integrated Solutions with IoT Course (Senai) 
 
 - Cursos Udemy (React, Next, TypeScript)  
-  > *Udemy Courses (React, Next, TypeScript)*
+  > Udemy Courses (React, Next, TypeScript)
 
 - DP-900 (Senai)  
 
