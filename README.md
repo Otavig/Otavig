@@ -57,9 +57,9 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
 </div>
 
 ## Github Status
-<div align="center" style="margin: 0 auto">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavig&show_icons=true&theme=jolly"/>
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Otavig&show_icons=true&theme=jolly"/>
+<div align="center" style="margin: 5 auto">
+  <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavig&show_icons=true&theme=jolly"/>
+  <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api?username=Otavig&show_icons=true&theme=jolly"/>
   
 </div>
 
