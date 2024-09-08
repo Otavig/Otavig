@@ -1,4 +1,4 @@
-<img src="img_02.png" alt="Imagem" style="width:100%; height: 250px;">
+<!--<img src="img_02.png" alt="Imagem" style="width:100%; height: 250px;">-->
 
 <a href="https://git.io/typing-svg"><img  height="100px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=5000&color=53138f&width=435&height=31&lines=%E2%9D%A4+Ol%C3%A1+entusiasta%2C+seja+bem-vindo!" alt="Typing SVG" /></a>
 > ❤ Hello enthusiast, welcome, it's good to have you here!
