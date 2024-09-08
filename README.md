@@ -1,11 +1,15 @@
 <!--<img src="img_02.png" alt="Imagem" style="width:100%; height: 250px;">-->
+<img src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2018/08/17172630/desenvolvedor-web.png" alt="Imagem" style="width:100%; height: 600px;">
 
-<a href="https://git.io/typing-svg"><img  height="100px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=5000&color=53138f&width=435&height=31&lines=%E2%9D%A4+Ol%C3%A1+entusiasta%2C+seja+bem-vindo!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img  height="100px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=5000&color=285fba&width=435&height=31&lines=%E2%9D%A4+Ol%C3%A1+entusiasta%2C+seja+bem-vindo!" alt="Typing SVG" /></a>
+
 > ❤ Hello enthusiast, welcome, it's good to have you here!
+
+<img align="right" src="https://github.com/Otavig/Studying/blob/main/Tools/img_perf2.png" alt="Imagem" height="200px">
 
 ---
 <div id="badges">
-  <a href = "https://www.linkedin.com/in/ot%C3%A1vio-garcia-5571502b6/">
+  <a href = "https://www.linkedin.com/in/otavig/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href = "https://www.instagram.com/otavig_/">
@@ -27,8 +31,6 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
 - Curso Técnico em Análise e Desenvolvimento de Sistemas (Senai 2 anos)  
   > Technical Course in Systems Analysis and Development (Senai 2 years)
   
-  <img align="right" src="https://github.com/Otavig/Studying/blob/main/Tools/img_perf2.png" alt="Imagem" height="200px">
-  
 - Curso de Fundamentos de Google Cloud Computing (Senai GCP)  
   > Google Cloud Computing (GCP) Fundamentals Course (Senai)
 
@@ -37,8 +39,6 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
 
 - Cursos Udemy (React, Next, TypeScript)  
   > Udemy Courses (React, Next, TypeScript)
-
-- DP-900 (Senai)  
 
 ## Meu Stack / My Stack
 <div>
@@ -53,7 +53,7 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Rasp" alt="Rasp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
 </div>
 
 ## Github Status
@@ -61,14 +61,14 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
   <table>
     <tr>
       <td>
-        <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavig&show_icons=true&theme=jolly"/>
+        <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavig&show_icons=true&theme=github_dark_dimmed"/>
       </td>
       <td style="padding: 0 20px;">
         <!-- Linha de separação central -->
         |
       </td>
       <td>
-        <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Otavig&show_icons=true&theme=jolly"/>
+        <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Otavig&show_icons=true&theme=github_dark_dimmed"/>
       </td>
     </tr>
   </table>
