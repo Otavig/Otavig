@@ -106,7 +106,7 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
   
   ### Ei... Já viu em uma inovação dessa gratuita?? dá aquele clique ai!
   
-  <img align="right" src="https://github.com/Otavig/Studying/blob/main/Tools/img_perf2.png" alt="Imagem" height="200px">
+  <img align="right" src="https://github.com/Otavig/Studying/blob/main/Tools/img_perf2.png" alt="Imagem" height="180px">
     
   > Hey... Have you ever seen such a free innovation?? Click on it!
   
