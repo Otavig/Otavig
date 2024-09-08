@@ -96,6 +96,15 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
 <br>
 <br>
 
-<img align="right" src="https://github.com/Otavig/Studying/blob/main/Tools/img_perf2.png" alt="Imagem" height="180px">
+<details align="left">
+  <summary>:eyes: Shh!!!</summary>
+  
+  ### Ei... Já viu em uma inovação dessa gratuita?? dá aquele clique ai!
+  > Hey... Have you ever seen such a free innovation?? Click on it!
+  
+  <img align="right" src="https://github.com/Otavig/Studying/blob/main/Tools/img_perf2.png" alt="Imagem" height="150px">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otavig&repo=midiaindoor&theme=github_dark_dimmed)](https://github.com/otavig/midiaindoor)
+</details>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otavig&repo=PejoAPP&theme=github_dark_dimmed)](https://github.com/otavig/pejoapp)
+
