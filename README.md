@@ -96,4 +96,4 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
 
 <img align="right" src="https://github.com/Otavig/Studying/blob/main/Tools/img_perf2.png" alt="Imagem" height="180px">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otavig&repo=PejoAPP&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otavig&repo=PejoAPP&theme=github_dark_dimmed)](https://github.com/otavig/pejoapp)
