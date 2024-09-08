@@ -94,5 +94,6 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
 <br>
 <br>
 
-<img align="left" src="img_03.png" alt="Imagem" height="200px"> opa..
-<img align="right" src="https://github.com/Otavig/Studying/blob/main/Tools/img_perf2.png" alt="Imagem" height="200px"> Bão?
+<img align="right" src="https://github.com/Otavig/Studying/blob/main/Tools/img_perf2.png" alt="Imagem" height="180px">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otavig&repo=PejoAPP&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
