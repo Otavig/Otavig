@@ -37,6 +37,10 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
 - Cursos Udemy (React, Next, TypeScript)  
   > Udemy Courses (React, Next, TypeScript)
 
+<a href="https://www.linkedin.com/in/otavig/">
+  <p>Linkedin para mais / Linkedin for more</p>
+</a>
+
 <img src="https://64.media.tumblr.com/59f4b51c905af02d6981e7fa03cf5919/tumblr_ms9c3qXte81rt6u7do1_r1_400.gif" align="right" height="200px">
 
 ## Meu Stack / My Stack
@@ -99,10 +103,12 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
 <details align="left">
   <summary>:eyes: Shh!!!</summary>
   
-  ### Ei... Já viu em uma inovação dessa gratuita?? dá aquele clique ai!
-  > Hey... Have you ever seen such a free innovation?? Click on it!
   
-  <img align="right" src="https://github.com/Otavig/Studying/blob/main/Tools/img_perf2.png" alt="Imagem" height="150px">
+  ### Ei... Já viu em uma inovação dessa gratuita?? dá aquele clique ai!
+  
+  <img align="right" src="https://github.com/Otavig/Studying/blob/main/Tools/img_perf2.png" alt="Imagem" height="200px">
+    
+  > Hey... Have you ever seen such a free innovation?? Click on it!
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otavig&repo=midiaindoor&theme=github_dark_dimmed)](https://github.com/otavig/midiaindoor)
 </details>
