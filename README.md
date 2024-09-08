@@ -37,6 +37,8 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
 - Cursos Udemy (React, Next, TypeScript)  
   > Udemy Courses (React, Next, TypeScript)
 
+<img src="https://64.media.tumblr.com/59f4b51c905af02d6981e7fa03cf5919/tumblr_ms9c3qXte81rt6u7do1_r1_400.gif" align="right" height="200px">
+
 ## Meu Stack / My Stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;
