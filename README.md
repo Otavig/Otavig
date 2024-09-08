@@ -104,7 +104,7 @@ Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.
   <summary>:eyes: Shh!!!</summary>
   
   
-  ### Ei... Já viu em uma inovação dessa gratuita?? dá aquele clique ai!
+  ### Ei... Já viu uma inovação dessa gratuita?? dá aquele clique ai!
   
   <img align="right" src="https://github.com/Otavig/Studying/blob/main/Tools/img_perf2.png" alt="Imagem" height="180px">
     
