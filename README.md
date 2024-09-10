@@ -19,9 +19,9 @@
 
 </div>
 <br>
-Sou desenvolvedor Web/Mobile e entusiasta em tecnologia.  
+Sou desenvolvedor Web/Mobile e entusiasta em tecnologia. Sou cristão apaixonado em Teólogia, arquelogia e jogador de xadrez.
 
-> I am a Web/Mobile developer and technology enthusiast.
+> I am a Web/Mobile developer and a technology enthusiast. I am a Christian with a passion for Theology, archaeology, and chess.
 ---
 ## Formação e Cursos / Education and Courses
   
