@@ -19,9 +19,9 @@
 
 </div>
 <br>
-Sou desenvolvedor Web/Mobile um entusiasta em tecnologia e Cristão praticante.
+Sou desenvolvedor de aplicações web e mobile. Cristão praticante, incorporando meus valores e ética em tudo o que faço, buscando excelência técnica e integridade em cada projeto.
 
-> I am a Web/Mobile developer, a technology enthusiast, and a practicing Christian.
+> I am a web and mobile application developer. As a practicing Christian, I incorporate my values and ethics into everything I do, striving for technical excellence and integrity in every project.
 ---
 ## Formação e Cursos / Education and Courses
   
@@ -34,6 +34,10 @@ Sou desenvolvedor Web/Mobile um entusiasta em tecnologia e Cristão praticante.
 - Curso de Soluções Integradas com IoT (Senai IoT)  
   > Integrated Solutions with IoT Course (Senai) 
 
+
+- Curso de Programação em Python no Raspberry (Senai)
+  > Python Programming Course on Raspberry (Senai)
+
 - Cursos Udemy (React, Next, TypeScript)  
   > Udemy Courses (React, Next, TypeScript)
 
@@ -41,22 +45,28 @@ Sou desenvolvedor Web/Mobile um entusiasta em tecnologia e Cristão praticante.
   <p>Linkedin para mais / Linkedin for more</p>
 </a>
 
+
+## Minha Stack / My Stack
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
+</div>
+
 <img src="https://64.media.tumblr.com/59f4b51c905af02d6981e7fa03cf5919/tumblr_ms9c3qXte81rt6u7do1_r1_400.gif" align="right" height="200px">
 
-## Meu Stack / My Stack
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NODEJS" alt="NODEJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+
+## Conhecimentos Extras / Extra Knowledge
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
   <img src="expo-go-app.svg" title="Expo" alt="Expo" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Rasp" alt="Rasp" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="50" height="50"/>
 </div>
 
 ## Github Status
@@ -111,6 +121,7 @@ Sou desenvolvedor Web/Mobile um entusiasta em tecnologia e Cristão praticante.
   > Hey... Have you ever seen such a free innovation?? Click on it!
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otavig&repo=midiaindoor&theme=github_dark_dimmed)](https://github.com/otavig/midiaindoor)
+
 </details>
 
 
