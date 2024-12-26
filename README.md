@@ -38,8 +38,8 @@ Sou desenvolvedor de aplicações web e mobile. Cristão praticante, incorporand
 - Curso de Programação em Python no Raspberry (Senai)
   > Python Programming Course on Raspberry (Senai)
 
-- Cursos Udemy (React, Next, TypeScript)  
-  > Udemy Courses (React, Next, TypeScript)
+- Cursos Udemy (React, Next, TypeScript, Node, Java, Python)  
+  > Udemy Courses (React, Next, TypeScript, Node, Java, Python)
 
 <a href="https://www.linkedin.com/in/otavig/">
   <p>Linkedin para mais / Linkedin for more</p>
