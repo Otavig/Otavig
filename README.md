@@ -24,7 +24,10 @@ Sou desenvolvedor de aplicações web e mobile. Cristão praticante, incorporand
 > I am a web and mobile application developer. As a practicing Christian, I incorporate my values and ethics into everything I do, striving for technical excellence and integrity in every project.
 ---
 ## Formação e Cursos / Education and Courses
-  
+
+- SUP. DE TEC. EM ANÁLISE E DESENV. DE SIST. (Unoeste FIPP) – Cursando desde fev. 2025
+  > SUP. OF TECH. IN SYSTEMS ANALYSIS AND DEVELOPMENT (Unoeste FIPP) – Ongoing since Feb. 2025
+    
 - Curso Técnico em Análise e Desenvolvimento de Sistemas (Senai 2 anos)  
   > Technical Course in Systems Analysis and Development (Senai 2 years)
   
@@ -33,7 +36,6 @@ Sou desenvolvedor de aplicações web e mobile. Cristão praticante, incorporand
 
 - Curso de Soluções Integradas com IoT (Senai IoT)  
   > Integrated Solutions with IoT Course (Senai) 
-
 
 - Curso de Programação em Python no Raspberry (Senai)
   > Python Programming Course on Raspberry (Senai)
