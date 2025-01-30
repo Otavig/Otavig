@@ -112,13 +112,5 @@ Sou desenvolvedor de aplicações web e mobile. Cristão praticante, incorporand
 <br>
 <br>
 
-<details align="left">
-  <summary>:eyes: Shh!!!</summary>
-  
-  <img align="right" src="https://github.com/Otavig/Studying/blob/main/Tools/img_perf2.png" alt="Imagem" height="180px">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otavig&repo=midiaindoor&theme=github_dark_dimmed)](https://github.com/otavig/midiaindoor)
-
-</details>
 
 
