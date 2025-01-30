@@ -115,12 +115,7 @@ Sou desenvolvedor de aplicações web e mobile. Cristão praticante, incorporand
 <details align="left">
   <summary>:eyes: Shh!!!</summary>
   
-  
-  ### Ei... Já viu uma inovação dessa gratuita?? dá aquele clique ai!
-  
   <img align="right" src="https://github.com/Otavig/Studying/blob/main/Tools/img_perf2.png" alt="Imagem" height="180px">
-    
-  > Hey... Have you ever seen such a free innovation?? Click on it!
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otavig&repo=midiaindoor&theme=github_dark_dimmed)](https://github.com/otavig/midiaindoor)
 
