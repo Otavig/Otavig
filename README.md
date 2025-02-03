@@ -19,9 +19,9 @@
 
 </div>
 <br>
-Sou desenvolvedor de aplicações web e mobile. Cristão praticante, incorporando meus valores e ética em tudo o que faço, buscando excelência técnica e integridade em cada projeto.
+Sou um entusiasta em tecnologia e cristão que incorporo meus valores e ética em tudo o que faço!
 
-> I am a web and mobile application developer. As a practicing Christian, I incorporate my values and ethics into everything I do, striving for technical excellence and integrity in every project.
+> I am a technology enthusiast and a Christian who incorporates my values and ethics into everything I do!
 ---
 ## Formação e Cursos / Education and Courses
 
