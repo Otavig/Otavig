@@ -68,6 +68,7 @@ Sou um entusiasta em tecnologia e cristão, guiando-me por valores e ética em t
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" title="NestJS" alt="NestJS" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" title="GraphQL" alt="GraphQL" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDb" alt="MongoDb" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" title="Raspberry Pi" alt="Raspberry Pi" width="50" height="50"/>
 </div>
 
