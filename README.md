@@ -1,8 +1,10 @@
 <!--<img src="img_02.png" alt="Imagem" style="width:100%; height: 250px;">-->
 
-<a href="https://git.io/typing-svg"><img  height="100px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=5000&color=285fba&width=435&height=31&lines=%E2%9D%A4+Ol%C3%A1+entusiasta%2C+seja+bem-vindo!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Jet+Brains&weight=700&size=30&duration=4000&pause=1000&repeat=false&width=435&lines=%E2%9D%A4+Ol%C3%A1%2C+Dev!+Bem-vindo!" alt="Typing SVG" />
+</a>
 
-> ❤ Hello enthusiast, welcome, it's good to have you here!
+> ❤ Hello, Dev! Welcome, it's great to have you here!
 
 ---
 <div id="badges">
@@ -19,11 +21,11 @@
 
 </div>
 <br>
-Sou um entusiasta em tecnologia e cristão que incorporo meus valores e ética em tudo o que faço!
+Sou um entusiasta em tecnologia e cristão, guiando-me por valores e ética em tudo que faço!
 
-> I am a technology enthusiast and a Christian who incorporates my values and ethics into everything I do!
+> I'm a tech enthusiast and Christian, guided by values and ethics in everything I do!
 ---
-## Formação e Cursos / Education and Courses
+## Formações e Cursos / Education & Courses
 
 - SUP. DE TEC. EM ANÁLISE E DESENV. DE SIST. (Unoeste FIPP) – Cursando desde fev. 2025
   > SUP. OF TECH. IN SYSTEMS ANALYSIS AND DEVELOPMENT (Unoeste FIPP) – Ongoing since Feb. 2025
@@ -50,28 +52,27 @@ Sou um entusiasta em tecnologia e cristão que incorporo meus valores e ética e
 
 ## Minha Stack / My Stack
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="Node.js" alt="Node.js" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" title="Arduino" alt="Arduino" width="50" height="50"/>
 </div>
 
 <img src="https://64.media.tumblr.com/59f4b51c905af02d6981e7fa03cf5919/tumblr_ms9c3qXte81rt6u7do1_r1_400.gif" align="right" height="200px">
 
-
-## Conhecimentos Extras / Extra Knowledge
+## Conhecimentos Básicos / Basic Knowledge
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
-  <img src="expo-go-app.svg" title="Expo" alt="Expo" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" title="NestJS" alt="NestJS" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" title="GraphQL" alt="GraphQL" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" title="Raspberry Pi" alt="Raspberry Pi" width="50" height="50"/>
 </div>
 
-## Github Status
+
+## Github statistics
 <div align="center" style="margin: 0 auto">
   <table>
     <tr>
