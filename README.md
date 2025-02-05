@@ -1,4 +1,4 @@
-<!--<img src="img_02.png" alt="Imagem" style="width:100%; height: 250px;">-->
+<img src="https://camo.githubusercontent.com/30bcdfbb44270d095c0470cd6c8cd304d2f7babedc679c53453cde147f4ec17f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31373126636f6c6f723d6772616469656e74" alt="Imagem" style="width:100%; height: 250px;">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Jet+Brains&weight=700&size=30&duration=4000&pause=1000&repeat=false&width=435&lines=%E2%9D%A4+Ol%C3%A1%2C+Dev!+Bem-vindo!" alt="Typing SVG" />
