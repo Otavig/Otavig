@@ -52,14 +52,14 @@ Sou um entusiasta em tecnologia e cristão, guiando-me por valores e ética em t
 
 ## Minha Stack / My Stack
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="Node.js" alt="Node.js" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="Express" alt="Express" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" title="NestJS" alt="NestJS" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDb" alt="MongoDb" width="50" height="50"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" title="Vite" alt="Vite" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="50" height="50"/>
 </div>
 
 <img src="https://64.media.tumblr.com/59f4b51c905af02d6981e7fa03cf5919/tumblr_ms9c3qXte81rt6u7do1_r1_400.gif" align="right" height="200px">
@@ -72,11 +72,12 @@ Sou um entusiasta em tecnologia e cristão, guiando-me por valores e ética em t
   </summary>
   <br>
   <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDb" alt="MongoDb" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" title="Vite" alt="Vite" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="50" height="50"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" title="NestJS" alt="NestJS" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" title="GraphQL" alt="GraphQL" width="50" height="50"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" title="Arduino" alt="Arduino" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" title="Raspberry Pi" alt="Raspberry Pi" width="50" height="50"/>
   </div>
