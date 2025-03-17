@@ -1,4 +1,9 @@
-<img src="https://camo.githubusercontent.com/30bcdfbb44270d095c0470cd6c8cd304d2f7babedc679c53453cde147f4ec17f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31373126636f6c6f723d6772616469656e74" alt="Imagem" style="width:100%;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e1c27&height=200&section=header" alt="Imagem" style="width:100%;">
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{otavig}/count.svg" /></p> 
+<br></div>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Jet+Brains&weight=700&size=30&duration=4000&pause=1000&repeat=false&width=435&lines=%E2%9D%A4+Ol%C3%A1%2C+Dev!+Bem-vindo!" alt="Typing SVG" />
@@ -83,47 +88,65 @@ Sou um entusiasta em tecnologia e cristão, guiando-me por valores e ética em t
   </div>
 </details>
 
+<div align="center">
 
 ## Github statistics
-<div align="center" style="margin: 0 auto">
-  <table>
-    <tr>
-      <td>
-        <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavig&show_icons=true&theme=github_dark_dimmed"/>
-      </td>
-      <td style="padding: 0 20px;">
-        <!-- Linha de separação central -->
-        |
-      </td>
-      <td>
-        <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Otavig&show_icons=true&theme=github_dark_dimmed"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
+<div align="center">
 
-<!-- 
-<details align="left">
-  <summary style="font-size: 200px">Github Rep's</summary>
-  
-# Github Rep's ++
-<div align="center" style="margin: 0 auto">
-  <a href="https://github.com/Otavig/MidiaIndoor" > <img height="140em" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Otavig&repo=MidiaIndoor&theme=jolly"/> </a>
-  <a href="https://github.com/Otavig/PejoApp" ><img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Otavig&repo=PejoApp&theme=jolly"/> </a>
-</div>
-<!-- ![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/) 
-</details>
--->
+## Estatísticas do GitHub | GitHub Statistics
 
-<picture align="center">
-  <source align="center" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Otavig/Otavig/output/github-contribution-grid-snake-dark.svg">
-  <source align="center" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Otavig/Otavig/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Otavig/Otavig/output/github-contribution-grid-snake.svg">
+Aqui estão algumas estatísticas do meu perfil no GitHub, mostrando as linguagens mais usadas e um resumo geral da minha atividade.
+
+<table>
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavig&show_icons=true&theme=github_dark_dimmed" alt="Linguagens Mais Usadas | Top Languages"/>
+    </td>
+    <td style="padding: 0 20px;">
+      |
+    </td>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Otavig&show_icons=true&theme=github_dark_dimmed" alt="Estatísticas do Perfil | Profile Statistics"/>
+    </td>
+  </tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Otavig/Otavig/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Otavig/Otavig/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Animação da Contribuição do GitHub | GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Otavig/Otavig/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br>
-<br>
+
+<details>
+  <summary style="font-size: 200px">Ler mais | Read more</summary>
+
+  ## Repositórios Destacados | Featured Repositories
+
+  Aqui estão alguns dos meus repositórios mais relevantes e projetos em que trabalhei.
+
+  <a href="https://github.com/Otavig/chat-ia-gemini">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Otavig&repo=chat-ia-gemini&theme=jolly" alt="Repositório chat-ia-gemini | chat-ia-gemini Repository"/>
+  </a>
+  <a href="https://github.com/Otavig/Termo-infinity">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Otavig&repo=Termo-infinity&theme=jolly" alt="Repositório Termo-infinity | Termo-infinity Repository"/>
+  </a>
+
+  <br><br>
+
+  ## Gráfico de Atividade | Activity Graph
+
+  Um resumo visual da minha atividade no GitHub.
+
+  [![Gráfico de Atividade do GitHub | GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=otavig&bg_color=1e1c27&color=636e72&line=66aaff&point=33cc99&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</details>
+
+</div>
+
+
+</div>
 
 
 
