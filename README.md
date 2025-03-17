@@ -88,15 +88,11 @@ Sou um entusiasta em tecnologia e cristão, guiando-me por valores e ética em t
   </div>
 </details>
 
-<div align="center">
-
-## Github statistics
-
-<div align="center">
-
 ## Estatísticas do GitHub | GitHub Statistics
 
 Aqui estão algumas estatísticas do meu perfil no GitHub, mostrando as linguagens mais usadas e um resumo geral da minha atividade.
+
+<div align="center">
 
 <table>
   <tr>
