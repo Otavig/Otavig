@@ -1,10 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1c27&height=200&section=header" alt="Imagem" style="width:100%;">
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{otavig}/count.svg" /></p> 
-<br></div>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Jet+Brains&weight=700&size=30&duration=4000&pause=1000&repeat=false&width=435&lines=%E2%9D%A4+Ol%C3%A1%2C+Dev!+Bem-vindo!" alt="Typing SVG" />
 </a>
@@ -139,9 +134,12 @@ Aqui estão algumas estatísticas do meu perfil no GitHub, mostrando as linguage
   [![Gráfico de Atividade do GitHub | GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=otavig&bg_color=1e1c27&color=636e72&line=66aaff&point=33cc99&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{otavig}/count.svg" /></p> 
+<br></div>
+
 </div>
-
-
 </div>
 
 
