@@ -142,5 +142,6 @@ Aqui estão algumas estatísticas do meu perfil no GitHub, mostrando as linguage
 </div>
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e1c27&height=120&section=footer"/>
 
 
