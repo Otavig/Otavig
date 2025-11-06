@@ -52,10 +52,10 @@ Sou um entusiasta em tecnologia e cristão, guiando-me por valores e ética em t
 
 ## Minha Stack / My Stack
 <div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="Express" alt="Express" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" title="NestJS" alt="NestJS" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="50" height="50"/>
@@ -73,7 +73,7 @@ Sou um entusiasta em tecnologia e cristão, guiando-me por valores e ética em t
   </summary>
   <br>
   <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" title="NestJS" alt="NestJS" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDb" alt="MongoDb" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" title="Vite" alt="Vite" width="50" height="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="50" height="50"/>
