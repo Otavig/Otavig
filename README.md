@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e1c27&height=200&section=header" alt="Imagem" style="width:100%;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=171525&height=200&section=header" alt="Imagem" style="width:100%;">
 
 ## Hello, is anyone there?
 
@@ -54,6 +54,6 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e1c27&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=171525&height=120&section=footer"/>
 
 
